@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/windows2000-portfolio/static/css/main.964d6fa5.css",
-    "main.js": "/windows2000-portfolio/static/js/main.1fbfa749.js",
+    "main.css": "/windows2000-portfolio/static/css/main.8f894290.css",
+    "main.js": "/windows2000-portfolio/static/js/main.71d640ca.js",
     "static/js/453.bcf04a26.chunk.js": "/windows2000-portfolio/static/js/453.bcf04a26.chunk.js",
     "index.html": "/windows2000-portfolio/index.html",
-    "main.964d6fa5.css.map": "/windows2000-portfolio/static/css/main.964d6fa5.css.map",
-    "main.1fbfa749.js.map": "/windows2000-portfolio/static/js/main.1fbfa749.js.map",
+    "main.8f894290.css.map": "/windows2000-portfolio/static/css/main.8f894290.css.map",
+    "main.71d640ca.js.map": "/windows2000-portfolio/static/js/main.71d640ca.js.map",
     "453.bcf04a26.chunk.js.map": "/windows2000-portfolio/static/js/453.bcf04a26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964d6fa5.css",
-    "static/js/main.1fbfa749.js"
+    "static/css/main.8f894290.css",
+    "static/js/main.71d640ca.js"
   ]
 }
